@@ -1,4 +1,4 @@
-go-gl Examples [![Build Status](https://travis-ci.org/go-gl/examples.svg?branch=master)](https://travis-ci.org/go-gl/examples)
+go-gl Examples [![Build Status](https://travis-ci.org/go-gl/examples.svg?branch=master)](https://travis-ci.org/go-gl/examples) [![GuardRails badge](https://badges.production.guardrails.io/moul/examples.svg)](https://www.guardrails.io)
 ==============
 
 Basic Usage
